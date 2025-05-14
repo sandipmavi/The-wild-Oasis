@@ -11,6 +11,7 @@ import DataItem from "../../ui/DataItem";
 import { Flag } from "../../ui/Flag";
 
 import { formatDistanceFromNow, formatCurrency } from "../../utils/helpers";
+import React from "react";
 
 const StyledBookingDataBox = styled.section`
   /* Box */
@@ -103,6 +104,8 @@ const Footer = styled.footer`
 
 // A purely presentational component
 function BookingDataBox({ booking }) {
+
+
   const {
     created_at,
     startDate,

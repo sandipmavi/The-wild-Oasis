@@ -1,3 +1,4 @@
+import React from "react";
 import styled from "styled-components";
 
 const StyledCheckbox = styled.div`
@@ -24,7 +25,6 @@ const StyledCheckbox = styled.div`
     gap: 0.8rem;
   }
 `;
-
 function Checkbox({ checked, onChange, disabled = false, id, children }) {
   return (
     <StyledCheckbox>
