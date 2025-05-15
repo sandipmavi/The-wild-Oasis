@@ -14,6 +14,7 @@ const StyledHeader = styled.header`
 const Header = () => {
   return (
     <StyledHeader>
+      
       <UserAvatar />
       <HeaderMenu />
     </StyledHeader>
