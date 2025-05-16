@@ -2,10 +2,10 @@
 
 A full-featured hotel management system built for internal staff to manage bookings, rooms, sales, and user data efficiently and securely.
 ## Logo
-[/]
+![Logo](./public/logo-light.png)
 ## 🚀 Live Demo
 
-[Visit the Wild Oasis App](#) <!-- Replace with actual deployed link when available -->
+[Visit the Wild Oasis App](https://wiiild-oasis.netlify.app/login)(#) <!-- Replace with actual deployed link when available -->
 
 ## 📅 Project Duration
 
