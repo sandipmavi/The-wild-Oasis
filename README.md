@@ -1,7 +1,8 @@
 # 🏨 The Wild Oasis - Hotel Management System
 
 A full-featured hotel management system built for internal staff to manage bookings, rooms, sales, and user data efficiently and securely.
-
+## Logo
+[/]
 ## 🚀 Live Demo
 
 [Visit the Wild Oasis App](#) <!-- Replace with actual deployed link when available -->
@@ -69,9 +70,9 @@ src/
 ## ✅ Setup Instructions
 
  **Clone the Repository**
-  
-   git clone https://github.com/yourusername/the-wild-oasis.git
-   cd the-wild-oasis
+ -  Contributions are welcome! Please fork the repository and open a pull request.
+ - git clone https://github.com/sandipmavi/the-wild-oasis.git
+ - cd the-wild-oasis
 ### Install Dependencies
   npm install
 ### Set Up Supabase
@@ -80,7 +81,7 @@ src/
 
 ### Configure .env with your Supabase credentials:
 
-VITE_SUPABASE_URL=your_url
+VITE_SUPABASE_URL=
 VITE_SUPABASE_ANON_KEY=your_anon_key
 ### Run the Development Server
 npm run dev
