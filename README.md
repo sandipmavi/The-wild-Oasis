@@ -62,6 +62,8 @@ src/
 - ├── utils/ # important functions used in the application
 
 ## 📸 Screenshots
+ ### Login
+  ![Login](./shots/SS-Login.png)
  ### Dashboard
  ![Dashboard](./shots/SS-dashboard.png)
  ![Dashboard](./shots/SS-dashboard2.png)
@@ -69,12 +71,18 @@ src/
  ![Dashboard](./shots/SS-dashboard-d1.png)
  ![Dashboard](./shots/SS-dashboard-d2.png)
  ### Cabins
- ![Cabin](./shots/SS-cabins1.png)
- ### bookings
- ![Booking](./shots/SS-booking1.png)
-  ![Booking](./shots/SS-booking2.png)
-   ![Booking](./shots/SS-booking-d.png)
+ ![Cabin](./shots/SS-Cabins1.png)
+ ### Bookings
+ ![Booking](./shots/SS-bookings1.png)
+ ![Booking](./shots/SS-bookings2.png)
+ ![Booking](./shots/SS-bookings-d.png)
+ ### Accounts
+  ![Account](./shots/SS-accounts.png)
+ ### User
+  ![User](./shots/SS-User.png)
+ ### Settings
  
+  ![Settings](./shots/SS-Setting.png)
 
 ## ✅ Setup Instructions
 
