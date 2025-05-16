@@ -49,10 +49,64 @@ A full-featured hotel management system built for internal staff to manage booki
 
 ## 📂 Folder Structure (Simplified)
 src/
-- ├── data/ # Usable data 
+- ├── context / # global context
+- ├── data/ # Uploader, images etc.
+- ├── pages / # pages featured in the application
 - ├── features/ # Feature-specific components like bookings, rooms
 - ├── services/ # Supabase and API service functions
 - ├── ui/ # Generic UI components (form, button, modal, etc.)
 - ├── hooks/ # Custom React hooks
 - └── App.jsx # Main application file
+- ├── styles / #Global Styles
+- ├── utils/ # important functions used in the application
 
+## 📸 Screenshots
+
+> _Include some screenshots of the dashboard, charts, and dark mode UI here if available._
+
+---
+
+## ✅ Setup Instructions
+
+ **Clone the Repository**
+  
+   git clone https://github.com/yourusername/the-wild-oasis.git
+   cd the-wild-oasis
+### Install Dependencies
+  npm install
+### Set Up Supabase
+
+ Create a project at Supabase
+
+### Configure .env with your Supabase credentials:
+
+VITE_SUPABASE_URL=your_url
+VITE_SUPABASE_ANON_KEY=your_anon_key
+### Run the Development Server
+npm run dev
+## 🧠 Learnings
+- Gained deep experience with React Query for real-world async data management.
+
+- Mastered Supabase for implementing full-stack features without a custom backend.
+
+- Designed a clean, responsive, and user-friendly UI using Styled-Components.
+
+- Integrated dynamic charts and complex table features (filter/sort/paginate).
+
+## 📌 Future Improvements
+- Admin analytics dashboard with more KPIs.
+
+- Customer-facing interface for self-booking.
+
+- Role-specific dashboards (e.g., Receptionist vs. Manager).
+
+## 🙌 Acknowledgements
+- Inspired by the The Wild Oasis project concept by Jonas Schmedtmann.
+
+## 🧑‍💻 Author
+- Sandeep Mavi — linkedin.com/in/sandeep-mavi989/
+- Email - smavi.dev@gmail.com
+
+
+📄 License
+This project is licensed under the MIT License.
