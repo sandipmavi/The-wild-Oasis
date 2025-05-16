@@ -49,10 +49,10 @@ A full-featured hotel management system built for internal staff to manage booki
 
 ## 📂 Folder Structure (Simplified)
 src/
-├── data/ # Usable data 
-├── features/ # Feature-specific components like bookings, rooms
-├── services/ # Supabase and API service functions
-├── ui/ # Generic UI components (form, button, modal, etc.)
-├── hooks/ # Custom React hooks
-└── App.jsx # Main application file
+- ├── data/ # Usable data 
+- ├── features/ # Feature-specific components like bookings, rooms
+- ├── services/ # Supabase and API service functions
+- ├── ui/ # Generic UI components (form, button, modal, etc.)
+- ├── hooks/ # Custom React hooks
+- └── App.jsx # Main application file
 
