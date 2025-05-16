@@ -62,10 +62,9 @@ src/
 - ├── utils/ # important functions used in the application
 
 ## 📸 Screenshots
+ ### Dashboard
+ ![Dashboard](./shots/SS-dashboard.png)
 
-> _Include some screenshots of the dashboard, charts, and dark mode UI here if available._
-
----
 
 ## ✅ Setup Instructions
 
@@ -81,8 +80,8 @@ src/
 
 ### Configure .env with your Supabase credentials:
 
-VITE_SUPABASE_URL=
-VITE_SUPABASE_ANON_KEY=your_anon_key
+- VITE_SUPABASE_URL=
+- VITE_SUPABASE_ANON_KEY=your_anon_key
 ### Run the Development Server
 npm run dev
 ## 🧠 Learnings
