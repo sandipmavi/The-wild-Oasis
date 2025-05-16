@@ -68,6 +68,12 @@ src/
  ### Dashboard in Dark mode
  ![Dashboard](./shots/SS-dashboard-d1.png)
  ![Dashboard](./shots/SS-dashboard-d2.png)
+ ### Cabins
+ ![Cabin](./shots/SS-cabins1.png)
+ ### bookings
+ ![Booking](./shots/SS-booking1.png)
+  ![Booking](./shots/SS-booking2.png)
+   ![Booking](./shots/SS-booking-d.png)
  
 
 ## ✅ Setup Instructions
