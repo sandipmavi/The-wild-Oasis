@@ -64,7 +64,11 @@ src/
 ## 📸 Screenshots
  ### Dashboard
  ![Dashboard](./shots/SS-dashboard.png)
-
+ ![Dashboard](./shots/SS-dashboard2.png)
+ ### Dashboard in Dark mode
+ ![Dashboard](./shots/SS-dashboard-d1.png)
+ ![Dashboard](./shots/SS-dashboard-d2.png)
+ 
 
 ## ✅ Setup Instructions
 
