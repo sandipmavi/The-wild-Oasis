@@ -6,6 +6,9 @@ A full-featured hotel management system built for internal staff to manage booki
 ## 🚀 Live Demo
 
 [Visit the Wild Oasis App](https://wiiild-oasis.netlify.app/login)(#) <!-- Replace with actual deployed link when available -->
+## Credentials to login
+ - username: mavi@gmail.com
+ - password: 123456
 
 ## 📅 Project Duration
 
